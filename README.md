@@ -39,7 +39,13 @@ To check out the live demo of this text editor, [click here](http://localhost/<p
 5. Open your browser and go to `http://localhost/<project-folder>` to access the text editor.
 
 --- 
-### Contributing
+
+Here's a general description for your text editor project, which you can adapt and personalize for your Git repository:
+
+---
+
+### 🌱 Contributing
+
 Feel free to open issues or submit pull requests if you have any suggestions or improvements for the project.
 
 ---
