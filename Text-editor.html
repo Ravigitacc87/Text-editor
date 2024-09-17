@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+        .box {
+            height: 175px;
+            width: 695px;
+            color: green;
+        }
+
+        h1 {
+            font-weight: bolder;
+            text-align: center;
+            font-size: 65px;
+        }
+
+        button {
+            font-size: 25px;
+            color: red;
+            font-family: algerian;
+        }
+
+        div {
+            border: 4px outset grey;
+            border-radius: 5px;
+            width: fit-content;
+            color: blue;
+        }
+
+        hr {
+            border: 5px dashed grey;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Text Font-Type Editor
+        <hr>
+    </h1>
+    <form method="post" action="./Text-editor.php">
+        <textarea name="text" placeholder="please enter your text" class="box"></textarea><br>
+        <button name="bold">bold</button>
+        <button name="italic">Italic</button>
+        <button name="uppercase">uppercase</button>
+        <button name="lowercase">lowercase</button><br><br>
+    </form>
+</body>
+
+</html>
