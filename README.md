@@ -23,8 +23,6 @@ Here’s a preview of the text editor interface:
 
 ![Text Editor Screenshot](Screenshot.png)
 
-### Demo:
-To check out the live demo of this text editor, [click here](http://localhost/<project-folder>).
 
 ---
 
