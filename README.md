@@ -21,7 +21,7 @@ This text editor is built using **HTML**, **CSS**, and **PHP**, allowing users t
 ### Preview:
 Here’s a preview of the text editor interface:
 
-![Text Editor Screenshot](path-to-your-screenshot.png)
+![Text Editor Screenshot](Screenshot.png)
 
 ### Demo:
 To check out the live demo of this text editor, [click here](http://localhost/<project-folder>).
